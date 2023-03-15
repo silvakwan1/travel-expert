@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css2? família=Cinzel:wght@400;500;600;700&display=swap');
 
 *{
+    font-family: 'cinzel';
     margin: 0;
     box-sizing: border-box;
-    font-family: 'cinzel';
 }
 
 body{
     height: 100vh;
-    background: url(../img/bg-image.png) no-repeat ;
-    background-position: bottom, center;
+    background: url(../img/bg-image.png) no-repeat center;
     background-size: cover;
 }
 
