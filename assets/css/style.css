@@ -10,7 +10,7 @@
 
 body{
     height: 100vh;
-    background: url(./bg.svg) no-repeat ;
+    background: url(../img/bg-image.png) no-repeat ;
     background-position: bottom, center;
     background-size: cover;
 }
