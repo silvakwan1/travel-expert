@@ -13,6 +13,8 @@ body{
     background-size: cover;
 }
 
+/* |||| MAIN |||| */
+
 .main__container{
     padding: 200px 20px;
     display: flex;
@@ -23,6 +25,7 @@ body{
 .main__title{
     font-weight: 700;
     font-size: 64px;
+    line-height: 86px;
 }
 
 .main__title--marking{
@@ -32,8 +35,11 @@ body{
 .main__sub--title{
     font-weight: 400;
     font-size: 20px;
+    line-height: 20px;    
     text-align: center;
 }
+  
+/* |||| BUTTON |||| */
 
 .main__button{
     margin-top: 72px;
